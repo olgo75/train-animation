@@ -1,2 +1,2 @@
 # train-animation
-![](animation.gif)
+![](Animation.gif)
